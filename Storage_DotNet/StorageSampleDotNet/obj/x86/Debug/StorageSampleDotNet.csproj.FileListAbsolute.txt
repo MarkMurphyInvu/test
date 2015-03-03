@@ -1,0 +1,16 @@
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\StorageSampleDotNet.exe.config
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\StorageSampleDotNet.exe
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\StorageSampleDotNet.pdb
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\obj\x86\Debug\StorageSampleDotNet.exe
+c:\dev\azurebook\StorageSampleDotNet\StorageSampleDotNet\obj\x86\Debug\StorageSampleDotNet.pdb
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\StorageSampleDotNet.exe.config
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\obj\x86\Debug\StorageSampleDotNet.exe
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\obj\x86\Debug\StorageSampleDotNet.pdb
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\StorageSampleDotNet.exe
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\StorageSampleDotNet.pdb
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\AzureDemos\StorageSampleDotNet\StorageSampleDotNet\obj\x86\Debug\ResolveAssemblyReference.cache
